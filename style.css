@@ -1,0 +1,28 @@
+body {
+    text-align: justify;
+    background-color:aquamarine;
+ 
+} 
+.intro{
+    float: left;
+    list-style:none ;
+    cursor: initial;
+}
+.intro:hover{
+    background-color:lime;
+}
+
+kbd{
+    background-color: lawngreen;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+img{
+width: 800px;
+height: 800px;
+text-align: center;
+}
